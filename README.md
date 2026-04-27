@@ -24,15 +24,15 @@ Dashboard interaction <a href="https://github.com/Marta-Fsaha/Excel-Project/blob
 
 ## Process
 
--Collecting data
+- Collecting data
 
--Verifying data for missing values and sort
+- Verifying data for missing values and sort
 
--making sure data is consistent and clean with respect data types and formatting
+- making sure data is consistent and clean with respect data types and formatting
 
--creating pivot table according to question asked
+- creating pivot table according to question asked
 
--merge all pivot tables on to dashboard and apply timeline and slicer
+- merge all pivot tables on to dashboard and apply timeline and slicer
 
 ## Dashboard
 
@@ -40,7 +40,7 @@ Dashboard interaction <a href="https://github.com/Marta-Fsaha/Excel-Project/blob
 
 ## Project insight
 
--Most of orders are from united states
+- Most of orders are from united states
 
--2021 got hight sale
+- 021 got hight sale
 
