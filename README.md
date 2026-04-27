@@ -4,7 +4,9 @@
 Coffee shop sales want to discover bestselling products, sales trends over time and customer purchasing country, so to understand 
 
 ## Dataset
+
 <a href="https://github.com/Marta-Fsaha/Excel-Project/blob/main/Coffee%20orderdataset.xlsx">Dataset </a>
+
 ## Questions
 
 What are sales over time?
@@ -21,6 +23,7 @@ Dashboard interaction <a href="https://github.com/Marta-Fsaha/Excel-Project/blob
 
 
 ## Process
+
 -Collecting data
 
 -Verifying data for missing values and sort
