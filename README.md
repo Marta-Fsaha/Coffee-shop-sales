@@ -1,4 +1,4 @@
-# Excel-Project
+# Coffee shop sales
 ## Project Objectives
 
 Coffee shop sales want to discover bestselling products, sales trends over time and customer purchasing country, so to understand 
