@@ -43,5 +43,5 @@ Dashboard interaction <a href="https://github.com/Marta-Fsaha/Excel-Project/blob
 
 - Most of orders are from united states
 
-- 021 got hight sale
+
 
