@@ -1,11 +1,12 @@
 # Coffee shop sales
 ## Project Objectives
 
-Coffee shop sales want to discover bestselling products, sales trends over time and customer purchasing country, so to understand 
+Coffee shop sales want to discover bestselling products, sales trends over time and customer purchasing country, so to understand  related to revenue, product performance, and sales trends.
 
 ## Dataset
 
-I have optian 
+I have optian from 
+
 <a href="https://github.com/Marta-Fsaha/Excel-Project/blob/main/Coffee%20orderdataset.xlsx">Dataset </a>
 
 ## Questions
