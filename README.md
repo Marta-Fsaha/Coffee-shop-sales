@@ -5,8 +5,6 @@ Coffee shop sales want to discover bestselling products, sales trends over time 
 
 ## Dataset
 
-I have optian from 
-
 <a href="https://github.com/Marta-Fsaha/Excel-Project/blob/main/Coffee%20orderdataset.xlsx">Dataset </a>
 
 ## Questions
